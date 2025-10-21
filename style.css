@@ -61,12 +61,18 @@ h2{
     text-align: center;
 }
 .corn{
-   width: 750px; 
+   width: 600px; 
 }
 .ram{
     width:500px;
     display: flex;
     justify-content:space-around;
+}
+ .pika{
+        width: 400px;
+    }
+    .disnei{
+    width: 400px;
 }
 .wrap{
     display: flex;
@@ -125,15 +131,13 @@ input{
 @media (
     max-width:548px
 )
-
-{ .fill{
-    width:200px;
-}
-    
+{
     ul{
         display: none;
     }
+
 }
+
 
 
 
