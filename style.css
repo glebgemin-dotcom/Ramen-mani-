@@ -60,20 +60,7 @@ h2{
     color: rgb(6, 136, 250);
     text-align: center;
 }
-.corn{
-   width: 400px; 
-}
-.ram{
-    width:400px;
-    display: flex;
-    justify-content:space-around;
-}
- .pika{
-        width: 400px;
-    }
-    .disnei{
-    width: 400px;
-}
+
 .wrap{
     display: flex;
     justify-content: space-around;
@@ -90,12 +77,7 @@ h2{
 p{
     font-size: 20px;
 }
-.fill{
-    width: 500px;
-}
-.koll{
-    width:300px;
-}
+
 .contener{
 display: flex;
 flex-direction: column;
@@ -131,6 +113,26 @@ input{
 @media (
     max-width:548px
 )
+.corn{
+   width: 400px; 
+}
+.ram{
+    width:400px;
+    display: flex;
+    justify-content:space-around;
+}
+ .pika{
+        width: 400px;
+    }
+    .disnei{
+    width: 400px;
+}
+.fill{
+    width: 500px;
+}
+.koll{
+    width:300px;
+}
 {
     ul{
         display: none;
@@ -149,6 +151,7 @@ ul.show{
         flex-direction: column;
     }
 }
+
 
 
 
