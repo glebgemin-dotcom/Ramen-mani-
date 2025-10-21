@@ -126,11 +126,16 @@ input{
     max-width:548px
 )
 
-{
+{ .fill{
+    width:200px;
+}
+    
     ul{
         display: none;
     }
 }
+
+
 
 
 
